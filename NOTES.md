@@ -16,5 +16,5 @@ Without the deny rules, Claude could read `.env` while debugging config and copy
 
 ## Verification
 
-- `/memory`: <!-- TODO: confirm CLAUDE.md shows as loaded -->
-- `/permissions`: <!-- TODO: confirm the allow / ask / deny rules are listed -->
+- `/memory`: CLAUDE.md shows as loaded
+- `/permissions`: allow / ask / deny rules are listed
